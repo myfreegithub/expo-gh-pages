@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/expo-gh-pages/static/js/app.1fd6b07e.chunk.js",
-    "app.js.map": "/expo-gh-pages/static/js/app.1fd6b07e.chunk.js.map",
+    "app.js": "/expo-gh-pages/static/js/app.49ab14aa.chunk.js",
+    "app.js.map": "/expo-gh-pages/static/js/app.49ab14aa.chunk.js.map",
     "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.57d3d678.js",
     "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.57d3d678.js.map",
-    "static/js/2.ee5c70fe.chunk.js": "/expo-gh-pages/static/js/2.ee5c70fe.chunk.js",
-    "static/js/2.ee5c70fe.chunk.js.map": "/expo-gh-pages/static/js/2.ee5c70fe.chunk.js.map",
+    "static/js/2.aece06db.chunk.js": "/expo-gh-pages/static/js/2.aece06db.chunk.js",
+    "static/js/2.aece06db.chunk.js.map": "/expo-gh-pages/static/js/2.aece06db.chunk.js.map",
     "fonts/Ubuntu-Light.ttf": "/expo-gh-pages/./fonts/Ubuntu-Light.ttf",
     "fonts/Ubuntu-Regular.ttf": "/expo-gh-pages/./fonts/Ubuntu-Regular.ttf",
     "favicon-16.png": "/expo-gh-pages/favicon-16.png",
@@ -14,7 +14,7 @@
     "index.html": "/expo-gh-pages/index.html",
     "manifest.json": "/expo-gh-pages/manifest.json",
     "serve.json": "/expo-gh-pages/serve.json",
-    "static/js/2.ee5c70fe.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.ee5c70fe.chunk.js.LICENSE.txt",
+    "static/js/2.aece06db.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.aece06db.chunk.js.LICENSE.txt",
     "static/media/_Export_globoticket-bug-black.png": "/expo-gh-pages/static/media/_Export_globoticket-bug-black.61529923.png",
     "static/media/boxing.jpg": "/expo-gh-pages/static/media/boxing.d94bc95f.jpg",
     "static/media/dj1.jpg": "/expo-gh-pages/static/media/dj1.92ea88be.jpg",
@@ -25,7 +25,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.57d3d678.js",
-    "static/js/2.ee5c70fe.chunk.js",
-    "static/js/app.1fd6b07e.chunk.js"
+    "static/js/2.aece06db.chunk.js",
+    "static/js/app.49ab14aa.chunk.js"
   ]
 }
